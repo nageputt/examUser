@@ -1,0 +1,8 @@
+com\nikhil\user\UserDetails\UserConstants.class
+com\nikhil\user\UserDetails\UserDetailsApplication.class
+com\nikhil\user\UserDetails\controller\UserController.class
+com\nikhil\user\UserDetails\repository\UserDb.class
+com\nikhil\user\UserDetails\model\Occupation.class
+com\nikhil\user\InvertedTriangularPattern.class
+com\nikhil\user\UserDetails\config\WebMvcConfig.class
+com\nikhil\user\UserDetails\model\User.class
